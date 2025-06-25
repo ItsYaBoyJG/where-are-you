@@ -12,6 +12,7 @@ struct where_are_youApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+           
         }
     }
 }
